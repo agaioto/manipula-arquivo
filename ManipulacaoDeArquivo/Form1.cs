@@ -26,13 +26,17 @@ namespace ManipulacaoDeArquivo
             if (File.Exists(pathArquivo)){
                 Stream entrada = File.Open(pathArquivo, FileMode.Open);
                 StreamReader sr = new StreamReader(entrada);
-                string linha = sr.ReadLine();
 
-                while (linha != null)
-                {
-                    caixaDeTexto.Text += linha;
-                    linha = sr.ReadLine();
-                }
+                // string linha = sr.ReadLine();
+
+                // while (linha != null)
+                // {
+                // caixaDeTexto.Text += linha;
+                // linha = sr.ReadLine();
+                // }
+
+                string conteudoArquivo = sr.ReadToEnd();
+                caixaDeTexto.Text = conteudoArquivo;
 
                 sr.Close();
                 entrada.Close();

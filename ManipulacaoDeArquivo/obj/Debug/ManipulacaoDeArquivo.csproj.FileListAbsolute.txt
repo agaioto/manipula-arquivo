@@ -7,3 +7,4 @@ C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivo
 C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.pdb
 C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.exe
 C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.pdb
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csprojResolveAssemblyReference.cache
