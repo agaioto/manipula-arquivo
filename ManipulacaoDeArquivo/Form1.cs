@@ -24,22 +24,12 @@ namespace ManipulacaoDeArquivo
         private void Form1_Load(object sender, EventArgs e)
         {
             if (File.Exists(pathArquivo)){
-                Stream entrada = File.Open(pathArquivo, FileMode.Open);
-                StreamReader sr = new StreamReader(entrada);
-
-                // string linha = sr.ReadLine();
-
-                // while (linha != null)
-                // {
-                // caixaDeTexto.Text += linha;
-                // linha = sr.ReadLine();
-                // }
-
-                string conteudoArquivo = sr.ReadToEnd();
-                caixaDeTexto.Text = conteudoArquivo;
-
-                sr.Close();
-                entrada.Close();
+                using (Stream entrada = File.Open(pathArquivo, FileMode.Open))
+                using (StreamReader sr = new StreamReader(entrada))
+                {
+                    string conteudoArquivo = sr.ReadToEnd();
+                    caixaDeTexto.Text = conteudoArquivo;
+                }
             }
         }
 
