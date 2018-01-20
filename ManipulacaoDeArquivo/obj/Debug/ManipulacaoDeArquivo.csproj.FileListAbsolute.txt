@@ -1,0 +1,9 @@
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.Form1.resources
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.Properties.Resources.resources
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csproj.GenerateResource.Cache
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.exe.config
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.exe
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.pdb
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.exe
+C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.pdb
