@@ -8,3 +8,12 @@ C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivo
 C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.exe
 C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.pdb
 C:\Users\Mariana Silveira\source\repos\ManipulacaoDeArquivo\ManipulacaoDeArquivos_CSharp\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csprojResolveAssemblyReference.cache
+C:\Projetos\Arq\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.exe.config
+C:\Projetos\Arq\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.exe
+C:\Projetos\Arq\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.pdb
+C:\Projetos\Arq\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.exe
+C:\Projetos\Arq\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.pdb
+C:\Projetos\Arq\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csprojResolveAssemblyReference.cache
+C:\Projetos\Arq\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.Form1.resources
+C:\Projetos\Arq\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.Properties.Resources.resources
+C:\Projetos\Arq\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csproj.GenerateResource.Cache

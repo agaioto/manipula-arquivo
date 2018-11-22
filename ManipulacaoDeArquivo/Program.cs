@@ -14,6 +14,7 @@ namespace ManipulacaoDeArquivo
         [STAThread]
         static void Main()
         {
+            Console.WriteLine("teste");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
