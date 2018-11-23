@@ -14,7 +14,7 @@ namespace ManipulacaoDeArquivo
         [STAThread]
         static void Main()
         {
-            Console.WriteLine("teste");
+            Console.WriteLine("teste_segunda_versao_conflito");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
